@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPractice</string>
+    <string name="splashscreen">SplashScreen</string>
+    <string name="sign_in">Sign In</string>
+    <string name="todo">TODO</string>
+    <string name="personal_access_token">Personal access token</string>
+</resources>
